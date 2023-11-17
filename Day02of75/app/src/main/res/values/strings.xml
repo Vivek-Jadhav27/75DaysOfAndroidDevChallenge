@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Day 02 of 75</string>
+    <string name="enter_your_name">Enter Your name</string>
+    <string name="button">Button</string>
+    <string name="what_is_your_name">What is your name</string>
+</resources>
