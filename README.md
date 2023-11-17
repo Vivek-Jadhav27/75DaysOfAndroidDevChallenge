@@ -16,6 +16,7 @@ This repository contains all the projects for the 75-day challenge. I will updat
 ## Projects
 
 - Day 1: Splash Screen
+- Day 2: EditText TextView and Button understanding 
 
 ## Progress
 
