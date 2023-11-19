@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Day 04 of 75</string>
+    <string name="selected_language">Selected Language</string>
+    <string name="submit">Submit</string>
+</resources>
