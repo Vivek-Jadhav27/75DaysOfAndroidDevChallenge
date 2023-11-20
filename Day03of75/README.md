@@ -8,3 +8,6 @@ Task requirements
 - The first section should have two black blocks of different sizes.
 - The second section should have three vertical sub-sections of yellow color.
 - Each sub-section should have two or three black blocks of different sizes.
+
+Task Screenshot
+
