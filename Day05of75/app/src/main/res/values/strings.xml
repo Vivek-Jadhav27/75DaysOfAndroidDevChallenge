@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Day 05 of 75</string>
+    <string name="what_is_your_gender">What is your gender ?</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="submit">Submit</string>
+</resources>
