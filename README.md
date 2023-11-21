@@ -16,7 +16,9 @@ This repository contains all the projects for the 75-day challenge. I will updat
 ## Projects
 
 - [Day 1: Splash Screen](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day01of75)
-- [Day 2: EditText TextView and Button understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day02of75) 
+- [Day 2: EditText TextView and Button understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day02of75)
+- [Day 3: Linear Layout understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day03of75) 
+- [Day 4: Spinner understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day02of75) 
 
 ## Progress
 
