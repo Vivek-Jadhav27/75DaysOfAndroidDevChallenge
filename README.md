@@ -22,7 +22,8 @@ This repository contains all the projects for the 75-day challenge. I will updat
 - [Day 5: Radio Group and Radio Button understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day05of75)
 - [Day 6: Check Box understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day06of75) 
 - [Day 7: Seekbar understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day07of75) 
-- 
+- [Day 8: Implicit and Explicit Intent understanding](https://github.com/Vivek-Jadhav27/75DaysOfAndroidDevChallenge/tree/main/Day08of75) 
+ 
 
 
 ## Progress
