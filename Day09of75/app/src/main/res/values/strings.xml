@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Day 09 of 75</string>
+    <string name="_75_days_of_android_dev_challenge">75 Days of Android Dev Challenge</string>
+    <string name="name">Name</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="mobile_number">Mobile Number</string>
+    <string name="enter_your_phone">Enter Your Phone</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="hobbies">Hobbies</string>
+    <string name="dancing">Dancing</string>
+    <string name="singing">Singing</string>
+    <string name="submit">Submit</string>
+    <string name="back">back</string>
+</resources>
